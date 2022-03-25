@@ -1,2 +1,1 @@
-# Dos
- 
+I take no responsibility for how you use this script, this is an educational script
